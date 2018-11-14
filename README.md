@@ -3,7 +3,7 @@ Digital Creative Genesis npm
 
 <img alt="Digital Creative Genesis" src="screenshot.png" style="float: right; margin-left: 10px;">
 
-Digital Creative Genesis is a Genesis child theme used for Laverty Creative client projects, using npm as a build tool.
+Digital Creative Genesis is a Genesis child theme using npm as a build tool.
 <br>
 
 
